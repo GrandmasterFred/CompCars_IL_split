@@ -2,13 +2,7 @@
 this file will be used to fille in the gaps for the vehicles that do not have a searchable production/one the road day
 """
 
-from sp_functions import load_dict_from_json, save_dict_to_json
-
-import re
-
-def contains_valid_year(s):
-    match = re.search(r"\b(19[0-9]{2}|20[0-9]{2}|2100)\b", s)
-    return match.group(0) if match else None
+from sp_functions import load_dict_from_json, save_dict_to_json, contains_valid_year
 
 # loading the modified wiki-scraped data
 
@@ -20,6 +14,7 @@ PLACEHOLDER_RELEASE_DATE = "2000"
 data = load_dict_from_json(filename=TARGET_SAVE)
 
 # this section goes through each of the vehicle names, and finds the ones without any valid release date, and then replaces them with a set release date
+item_count = 0
 replacement_count = 0
 for key, item in data.items():
     if not contains_valid_year(item['release_date']):
@@ -31,6 +26,9 @@ for key, item in data.items():
     else:
         # getting the year itself i guess 
         year = contains_valid_year(item['release_date'])
+    # adds in the item count, this is essentially the order they are in
+    item['count'] = item_count
+    item_count += 1
 
 
 # then we save the data into a differnet .json file 
