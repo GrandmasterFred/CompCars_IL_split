@@ -1,0 +1,1407 @@
+{
+    "Besturn Besturn X80": {
+        "release_date": "2006",
+        "source": "https://en.wikipedia.org/?curid=17668668",
+        "cleaned_name": "Besturn X80"
+    },
+    "Hafei Lubao": {
+        "release_date": "2011",
+        "source": "https://en.wikipedia.org/?curid=9809032",
+        "cleaned_name": "Hafei Lubao"
+    },
+    "Audi Audi Q5": {
+        "release_date": "July 2008",
+        "source": "https://en.wikipedia.org/?curid=1579560",
+        "cleaned_name": "Audi Q5"
+    },
+    "Audi Audi Q3": {
+        "release_date": "June 2011",
+        "source": "https://en.wikipedia.org/?curid=7158862",
+        "cleaned_name": "Audi Q3"
+    },
+    "Audi Audi A7": {
+        "release_date": "2018",
+        "source": "https://en.wikipedia.org/?curid=21154679",
+        "cleaned_name": "Audi A7"
+    },
+    "Audi Audi A1": {
+        "release_date": "May 2010",
+        "source": "https://en.wikipedia.org/?curid=8235704",
+        "cleaned_name": "Audi A1"
+    },
+    "Buck Exclle": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "Buck Exclle"
+    },
+    "Buck encore": {
+        "release_date": "1995",
+        "source": "https://en.wikipedia.org/?curid=32218082",
+        "cleaned_name": "Buck encore"
+    },
+    "Buck Park Avenue": {
+        "release_date": "1928",
+        "source": "https://en.wikipedia.org/?curid=48163130",
+        "cleaned_name": "Buck Park Avenue"
+    },
+    "Buck Enclave": {
+        "release_date": "1960",
+        "source": "https://en.wikipedia.org/?curid=13825093",
+        "cleaned_name": "Buck Enclave"
+    },
+    "Buck Regal": {
+        "release_date": "May 1968",
+        "source": "https://en.wikipedia.org/?curid=690254",
+        "cleaned_name": "Buck Regal"
+    },
+    "Zhonghua Zhonghua Junjie": {
+        "release_date": "2014",
+        "source": "https://en.wikipedia.org/?curid=18386184",
+        "cleaned_name": "Zhonghua Junjie"
+    },
+    "Zhonghua Zhonghua H330": {
+        "release_date": "2010",
+        "source": "https://en.wikipedia.org/?curid=11915251",
+        "cleaned_name": "Zhonghua H330"
+    },
+    "Zhonghua Zhonghua H530": {
+        "release_date": "2010",
+        "source": "https://en.wikipedia.org/?curid=11915251",
+        "cleaned_name": "Zhonghua H530"
+    },
+    "Zhonghua Zhonghua V5": {
+        "release_date": "2020",
+        "source": "https://en.wikipedia.org/?curid=57641751",
+        "cleaned_name": "Zhonghua V5"
+    },
+    "Yiqi Weizhi": {
+        "release_date": "2016",
+        "source": "https://en.wikipedia.org/?curid=46528064",
+        "cleaned_name": "Yiqi Weizhi"
+    },
+    "Yiqi Weizi": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "Yiqi Weizi"
+    },
+    "Lexus Lexus GS": {
+        "release_date": "October 1991",
+        "source": "https://en.wikipedia.org/?curid=680721",
+        "cleaned_name": "Lexus GS"
+    },
+    "Lexus Lexus IS": {
+        "release_date": "October 1998",
+        "source": "https://en.wikipedia.org/?curid=762025",
+        "cleaned_name": "Lexus IS"
+    },
+    "Lexus Lexus RX": {
+        "release_date": "December 1997",
+        "source": "https://en.wikipedia.org/?curid=30864558",
+        "cleaned_name": "Lexus RX"
+    },
+    "Lexus Lexus GX": {
+        "release_date": "July 2009",
+        "source": "https://en.wikipedia.org/?curid=1945240",
+        "cleaned_name": "Lexus GX"
+    },
+    "Lexus Lexus ES": {
+        "release_date": "June 1989",
+        "source": "https://en.wikipedia.org/?curid=1310341",
+        "cleaned_name": "Lexus ES"
+    },
+    "Lexus Lexus LS": {
+        "release_date": "May 1989",
+        "source": "https://en.wikipedia.org/?curid=968414",
+        "cleaned_name": "Lexus LS"
+    },
+    "Lexus Lexus CT": {
+        "release_date": "December 2010",
+        "source": "https://en.wikipedia.org/?curid=26181716",
+        "cleaned_name": "Lexus CT"
+    },
+    "Lexus Lexus LX": {
+        "release_date": "November 1995",
+        "source": "https://en.wikipedia.org/?curid=1945286",
+        "cleaned_name": "Lexus LX"
+    },
+    "Benz Benz E Class": {
+        "release_date": "1993",
+        "source": "https://en.wikipedia.org/?curid=465541",
+        "cleaned_name": "Benz E Class"
+    },
+    "Benz Benz R Class": {
+        "release_date": "August 2004",
+        "source": "https://en.wikipedia.org/?curid=553747",
+        "cleaned_name": "Benz R Class"
+    },
+    "Benz Benz S Class": {
+        "release_date": "1972",
+        "source": "https://en.wikipedia.org/?curid=409855",
+        "cleaned_name": "Benz S Class"
+    },
+    "Benz Wei Ting": {
+        "release_date": "1967",
+        "source": "https://en.wikipedia.org/?curid=21227685",
+        "cleaned_name": "Benz Wei Ting"
+    },
+    "Benz Benz CLS Class": {
+        "release_date": "2023",
+        "source": "https://en.wikipedia.org/?curid=507857",
+        "cleaned_name": "Benz CLS Class"
+    },
+    "Benz Benz A Class": {
+        "release_date": "October 1996",
+        "source": "https://en.wikipedia.org/?curid=980127",
+        "cleaned_name": "Benz A Class"
+    },
+    "Benz Benz GLK Class": {
+        "release_date": "2015",
+        "source": "https://en.wikipedia.org/?curid=700494",
+        "cleaned_name": "Benz GLK Class"
+    },
+    "Benz Benz GL Class": {
+        "release_date": "2015",
+        "source": "https://en.wikipedia.org/?curid=3073989",
+        "cleaned_name": "Benz GL Class"
+    },
+    "Benz Benz B Class": {
+        "release_date": "June 2004",
+        "source": "https://en.wikipedia.org/?curid=974853",
+        "cleaned_name": "Benz B Class"
+    },
+    "Benz Benz SLK Class": {
+        "release_date": "2020",
+        "source": "https://en.wikipedia.org/?curid=829080",
+        "cleaned_name": "Benz SLK Class"
+    },
+    "Benz Benz C Class": {
+        "release_date": "September 1982",
+        "source": "https://en.wikipedia.org/?curid=409837",
+        "cleaned_name": "Benz C Class"
+    },
+    "Lifan Lifan 520": {
+        "release_date": "2012",
+        "source": "https://en.wikipedia.org/?curid=33636290",
+        "cleaned_name": "Lifan 520"
+    },
+    "Lifan Lifan 620": {
+        "release_date": "2018",
+        "source": "https://en.wikipedia.org/?curid=33647419",
+        "cleaned_name": "Lifan 620"
+    },
+    "Lifan Lifan 320": {
+        "release_date": "2018",
+        "source": "https://en.wikipedia.org/?curid=27086320",
+        "cleaned_name": "Lifan 320"
+    },
+    "Lifan Lifan X60": {
+        "release_date": "2018",
+        "source": "https://en.wikipedia.org/?curid=33677291",
+        "cleaned_name": "Lifan X60"
+    },
+    "Ford Mendeo": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "Ford Mendeo"
+    },
+    "Ford S-MAX": {
+        "release_date": "June 2006",
+        "source": "https://en.wikipedia.org/?curid=4229284",
+        "cleaned_name": "Ford S-MAX"
+    },
+    "Ford Kuga": {
+        "release_date": "February 2008",
+        "source": "https://en.wikipedia.org/?curid=12342525",
+        "cleaned_name": "Ford Kuga"
+    },
+    "Ford Ecosport": {
+        "release_date": "2022",
+        "source": "https://en.wikipedia.org/?curid=963474",
+        "cleaned_name": "Ford Ecosport"
+    },
+    "Guangqichuanqi Chuanqi GS5": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "Guangqichuanqi Chuanqi GS5"
+    },
+    "Guangqichuanqi Chuanqi GA5": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "Guangqichuanqi Chuanqi GA5"
+    },
+    "Huatai Baolige": {
+        "release_date": "2018",
+        "source": "https://en.wikipedia.org/?curid=68316694",
+        "cleaned_name": "Huatai Baolige"
+    },
+    "Haima(Zhengzhou) Haima Prince": {
+        "release_date": "1992",
+        "source": "https://en.wikipedia.org/?curid=29670103",
+        "cleaned_name": "Haima(Zhengzhou) Haima Prince"
+    },
+    "Baojun Baojun 630": {
+        "release_date": "2023",
+        "source": "https://en.wikipedia.org/?curid=33609076",
+        "cleaned_name": "Baojun 630"
+    },
+    "Maserati Quattroporte": {
+        "release_date": "2023",
+        "source": "https://en.wikipedia.org/?curid=1245350",
+        "cleaned_name": "Maserati Quattroporte"
+    },
+    "Chevy Aveo": {
+        "release_date": "2011",
+        "source": "https://en.wikipedia.org/?curid=30393328",
+        "cleaned_name": "Chevy Aveo"
+    },
+    "Chevy Epica": {
+        "release_date": "2011",
+        "source": "https://en.wikipedia.org/?curid=3301790",
+        "cleaned_name": "Chevy Epica"
+    },
+    "Chevy Lova": {
+        "release_date": "1941",
+        "source": "https://en.wikipedia.org/?curid=39848",
+        "cleaned_name": "Chevy Lova"
+    },
+    "Chevy Captiva": {
+        "release_date": "2018",
+        "source": "https://en.wikipedia.org/?curid=1826282",
+        "cleaned_name": "Chevy Captiva"
+    },
+    "Chevy Malibu": {
+        "release_date": "1983",
+        "source": "https://en.wikipedia.org/?curid=1039628",
+        "cleaned_name": "Chevy Malibu"
+    },
+    "FIAT Feixiang": {
+        "release_date": "2009",
+        "source": "https://en.wikipedia.org/?curid=1195048",
+        "cleaned_name": "FIAT Feixiang"
+    },
+    "FIAT FIAT 500": {
+        "release_date": "1957",
+        "source": "https://en.wikipedia.org/?curid=484016",
+        "cleaned_name": "FIAT 500"
+    },
+    "FIAT Palio": {
+        "release_date": "2018",
+        "source": "https://en.wikipedia.org/?curid=737876",
+        "cleaned_name": "FIAT Palio"
+    },
+    "Volkswagen Cross Lavida": {
+        "release_date": "2012",
+        "source": "https://en.wikipedia.org/?curid=16067288",
+        "cleaned_name": "Volkswagen Cross Lavida"
+    },
+    "Volkswagen Beetle": {
+        "release_date": "1938",
+        "source": "https://en.wikipedia.org/?curid=65685",
+        "cleaned_name": "Volkswagen Beetle"
+    },
+    "Volkswagen Jetta": {
+        "release_date": "1979",
+        "source": "https://en.wikipedia.org/?curid=291790",
+        "cleaned_name": "Volkswagen Jetta"
+    },
+    "Volkswagen GOL": {
+        "release_date": "2023",
+        "source": "https://en.wikipedia.org/?curid=589065",
+        "cleaned_name": "Volkswagen GOL"
+    },
+    "Volkswagen Magotan": {
+        "release_date": "1973",
+        "source": "https://en.wikipedia.org/?curid=554356",
+        "cleaned_name": "Volkswagen Magotan"
+    },
+    "Volkswagen Phaeton": {
+        "release_date": "December 2001",
+        "source": "https://en.wikipedia.org/?curid=426754",
+        "cleaned_name": "Volkswagen Phaeton"
+    },
+    "Volkswagen Tiguan abroad version": {
+        "release_date": "September 2015",
+        "source": "https://en.wikipedia.org/?curid=47896187",
+        "cleaned_name": "Volkswagen Tiguan abroad version"
+    },
+    "Volkswagen Touareg": {
+        "release_date": "August 2002",
+        "source": "https://en.wikipedia.org/?curid=564249",
+        "cleaned_name": "Volkswagen Touareg"
+    },
+    "Volkswagen Passat": {
+        "release_date": "1973",
+        "source": "https://en.wikipedia.org/?curid=554356",
+        "cleaned_name": "Volkswagen Passat"
+    },
+    "Volkswagen Caddy abroad version": {
+        "release_date": "September 2015",
+        "source": "https://en.wikipedia.org/?curid=47896187",
+        "cleaned_name": "Volkswagen Caddy abroad version"
+    },
+    "Volkswagen Touran": {
+        "release_date": "2015",
+        "source": "https://en.wikipedia.org/?curid=750077",
+        "cleaned_name": "Volkswagen Touran"
+    },
+    "Volkswagen Scirocco": {
+        "release_date": "2018",
+        "source": "https://en.wikipedia.org/?curid=189825",
+        "cleaned_name": "Volkswagen Scirocco"
+    },
+    "Volkswagen Lavide": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "Volkswagen Lavide"
+    },
+    "Volkswagen Gran Lavida": {
+        "release_date": "2012",
+        "source": "https://en.wikipedia.org/?curid=16067288",
+        "cleaned_name": "Volkswagen Gran Lavida"
+    },
+    "Volkswagen Sagitar": {
+        "release_date": "1979",
+        "source": "https://en.wikipedia.org/?curid=291790",
+        "cleaned_name": "Volkswagen Sagitar"
+    },
+    "Volkswagen Volkswagen CC": {
+        "release_date": "2018",
+        "source": "https://en.wikipedia.org/?curid=14410229",
+        "cleaned_name": "Volkswagen CC"
+    },
+    "Volkswagen Bora": {
+        "release_date": "2006",
+        "source": "https://en.wikipedia.org/?curid=62015311",
+        "cleaned_name": "Volkswagen Bora"
+    },
+    "Volkswagen Sharan": {
+        "release_date": "2023",
+        "source": "https://en.wikipedia.org/?curid=685836",
+        "cleaned_name": "Volkswagen Sharan"
+    },
+    "Volkswagen Multivan": {
+        "release_date": "November 2021",
+        "source": "https://en.wikipedia.org/?curid=71744151",
+        "cleaned_name": "Volkswagen Multivan"
+    },
+    "Volkswagen Tiguan": {
+        "release_date": "2020",
+        "source": "https://en.wikipedia.org/?curid=6030860",
+        "cleaned_name": "Volkswagen Tiguan"
+    },
+    "Toyota Alphard": {
+        "release_date": "2008",
+        "source": "https://en.wikipedia.org/?curid=2656621",
+        "cleaned_name": "Toyota Alphard"
+    },
+    "Toyota Prius": {
+        "release_date": "December 1997",
+        "source": "https://en.wikipedia.org/?curid=346651",
+        "cleaned_name": "Toyota Prius"
+    },
+    "Toyota Reiz": {
+        "release_date": "November 2004",
+        "source": "https://en.wikipedia.org/?curid=3428224",
+        "cleaned_name": "Toyota Reiz"
+    },
+    "Toyota Previa": {
+        "release_date": "January 1990",
+        "source": "https://en.wikipedia.org/?curid=1240528",
+        "cleaned_name": "Toyota Previa"
+    },
+    "Toyota Vios": {
+        "release_date": "October 2002",
+        "source": "https://en.wikipedia.org/?curid=4587558",
+        "cleaned_name": "Toyota Vios"
+    },
+    "Toyota Toyota RAV4": {
+        "release_date": "2000",
+        "source": "https://en.wikipedia.org/?curid=1335430",
+        "cleaned_name": "Toyota RAV4"
+    },
+    "Toyota 丰田Avalon": {
+        "release_date": "September 1994",
+        "source": "https://en.wikipedia.org/?curid=559469",
+        "cleaned_name": "Toyota 丰田Avalon"
+    },
+    "Toyota FJ Cruiser": {
+        "release_date": "January 2006",
+        "source": "https://en.wikipedia.org/?curid=1485770",
+        "cleaned_name": "Toyota FJ Cruiser"
+    },
+    "Toyota Prado": {
+        "release_date": "1990",
+        "source": "https://en.wikipedia.org/?curid=4855960",
+        "cleaned_name": "Toyota Prado"
+    },
+    "Toyota Huaguan": {
+        "release_date": "2010",
+        "source": "https://en.wikipedia.org/?curid=62523648",
+        "cleaned_name": "Toyota Huaguan"
+    },
+    "Toyota Camry": {
+        "release_date": "March 1982",
+        "source": "https://en.wikipedia.org/?curid=737603",
+        "cleaned_name": "Toyota Camry"
+    },
+    "Toyota Corolla": {
+        "release_date": "November 1966",
+        "source": "https://en.wikipedia.org/?curid=737584",
+        "cleaned_name": "Toyota Corolla"
+    },
+    "Toyota Crown": {
+        "release_date": "1955",
+        "source": "https://en.wikipedia.org/?curid=2477930",
+        "cleaned_name": "Toyota Crown"
+    },
+    "Toyota Yaris": {
+        "release_date": "January 1999",
+        "source": "https://en.wikipedia.org/?curid=1117292",
+        "cleaned_name": "Toyota Yaris"
+    },
+    "Toyota Highlander": {
+        "release_date": "November 2000",
+        "source": "https://en.wikipedia.org/?curid=2168292",
+        "cleaned_name": "Toyota Highlander"
+    },
+    "Toyota EZ": {
+        "release_date": "1976",
+        "source": "https://en.wikipedia.org/?curid=751372",
+        "cleaned_name": "Toyota EZ"
+    },
+    "Suzuki Cultus": {
+        "release_date": "2016",
+        "source": "https://en.wikipedia.org/?curid=1598238",
+        "cleaned_name": "Suzuki Cultus"
+    },
+    "Suzuki Jimny": {
+        "release_date": "April 1970",
+        "source": "https://en.wikipedia.org/?curid=2232427",
+        "cleaned_name": "Suzuki Jimny"
+    },
+    "Suzuki Bei Douxing": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "Suzuki Bei Douxing"
+    },
+    "Suzuki Kazishi": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "Suzuki Kazishi"
+    },
+    "Suzuki Yuyan": {
+        "release_date": "September 2024",
+        "source": "https://en.wikipedia.org/?curid=73421514",
+        "cleaned_name": "Suzuki Yuyan"
+    },
+    "Suzuki Grand Vitara": {
+        "release_date": "1998",
+        "source": "https://en.wikipedia.org/?curid=1598326",
+        "cleaned_name": "Suzuki Grand Vitara"
+    },
+    "Suzuki Alto": {
+        "release_date": "1984",
+        "source": "https://en.wikipedia.org/?curid=1075978",
+        "cleaned_name": "Suzuki Alto"
+    },
+    "Citroen Citroen C4L": {
+        "release_date": "2015",
+        "source": "https://en.wikipedia.org/?curid=1255896",
+        "cleaned_name": "Citroen C4L"
+    },
+    "Citroen Triomphe": {
+        "release_date": "2016",
+        "source": "https://en.wikipedia.org/?curid=4121072",
+        "cleaned_name": "Citroen Triomphe"
+    },
+    "Citroen C3 Picasso": {
+        "release_date": "2017",
+        "source": "https://en.wikipedia.org/?curid=18720131",
+        "cleaned_name": "Citroen C3 Picasso"
+    },
+    "Citroen Citroen C2": {
+        "release_date": "August 2003",
+        "source": "https://en.wikipedia.org/?curid=302320",
+        "cleaned_name": "Citroen C2"
+    },
+    "Citroen Citroen C4": {
+        "release_date": "2015",
+        "source": "https://en.wikipedia.org/?curid=1255896",
+        "cleaned_name": "Citroen C4"
+    },
+    "Citroen Citroen C5": {
+        "release_date": "2018",
+        "source": "https://en.wikipedia.org/?curid=546492",
+        "cleaned_name": "Citroen C5"
+    },
+    "Mitsubishi Mitsubishi Zinger": {
+        "release_date": "2005",
+        "source": "https://en.wikipedia.org/?curid=4062193",
+        "cleaned_name": "Mitsubishi Zinger"
+    },
+    "Mitsubishi ASX": {
+        "release_date": "2017",
+        "source": "https://en.wikipedia.org/?curid=9029597",
+        "cleaned_name": "Mitsubishi ASX"
+    },
+    "Mitsubishi Grandis": {
+        "release_date": "2011",
+        "source": "https://en.wikipedia.org/?curid=3844486",
+        "cleaned_name": "Mitsubishi Grandis"
+    },
+    "Mitsubishi Outlander abroad version": {
+        "release_date": "1977",
+        "source": "https://en.wikipedia.org/?curid=6217062",
+        "cleaned_name": "Mitsubishi Outlander abroad version"
+    },
+    "Mitsubishi Pajero": {
+        "release_date": "2021",
+        "source": "https://en.wikipedia.org/?curid=1983488",
+        "cleaned_name": "Mitsubishi Pajero"
+    },
+    "Mitsubishi Mitsubishi Galant": {
+        "release_date": "2017",
+        "source": "https://en.wikipedia.org/?curid=617540",
+        "cleaned_name": "Mitsubishi Galant"
+    },
+    "Opel Antara": {
+        "release_date": "2015",
+        "source": "https://en.wikipedia.org/?curid=2673631",
+        "cleaned_name": "Opel Antara"
+    },
+    "Opel Zafira’": {
+        "release_date": "January 1999",
+        "source": "https://en.wikipedia.org/?curid=535201",
+        "cleaned_name": "Opel Zafira’"
+    },
+    "Jianghuai Heyue": {
+        "release_date": "December 2021",
+        "source": "https://en.wikipedia.org/?curid=18443884",
+        "cleaned_name": "Jianghuai Heyue"
+    },
+    "Jianghuai Ruifeng": {
+        "release_date": "March 2021",
+        "source": "https://en.wikipedia.org/?curid=11923432",
+        "cleaned_name": "Jianghuai Ruifeng"
+    },
+    "Jianghuai Ruiying": {
+        "release_date": "Not found",
+        "source": "https://en.wikipedia.org/?curid=30522622",
+        "cleaned_name": "Jianghuai Ruiying"
+    },
+    "Jianghuai Xingrui": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "Jianghuai Xingrui"
+    },
+    "Infiniti Infiniti G Class": {
+        "release_date": "2016",
+        "source": "https://en.wikipedia.org/?curid=3110116",
+        "cleaned_name": "Infiniti G Class"
+    },
+    "Lufeng Landwind X8": {
+        "release_date": "November 2004",
+        "source": "https://en.wikipedia.org/?curid=2452271",
+        "cleaned_name": "Lufeng Landwind X8"
+    },
+    "Lufeng Fshion": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "Lufeng Fshion"
+    },
+    "Honda City": {
+        "release_date": "1986",
+        "source": "https://en.wikipedia.org/?curid=894513",
+        "cleaned_name": "Honda City"
+    },
+    "Honda Spirior": {
+        "release_date": "2018",
+        "source": "https://en.wikipedia.org/?curid=52319809",
+        "cleaned_name": "Honda Spirior"
+    },
+    "Honda Crosstour": {
+        "release_date": "September 2009",
+        "source": "https://en.wikipedia.org/?curid=25114434",
+        "cleaned_name": "Honda Crosstour"
+    },
+    "Honda Jade": {
+        "release_date": "Not found",
+        "source": "https://en.wikipedia.org/?curid=80243558",
+        "cleaned_name": "Honda Jade"
+    },
+    "Honda Honda CR-V": {
+        "release_date": "2001",
+        "source": "https://en.wikipedia.org/?curid=1211844",
+        "cleaned_name": "Honda CR-V"
+    },
+    "Honda Civic": {
+        "release_date": "1972",
+        "source": "https://en.wikipedia.org/?curid=363413",
+        "cleaned_name": "Honda Civic"
+    },
+    "Honda Accord": {
+        "release_date": "1981",
+        "source": "https://en.wikipedia.org/?curid=364459",
+        "cleaned_name": "Honda Accord"
+    },
+    "Honda Odyssey": {
+        "release_date": "Not found",
+        "source": "https://en.wikipedia.org/?curid=1009817",
+        "cleaned_name": "Honda Odyssey"
+    },
+    "Honda Crider": {
+        "release_date": "2018",
+        "source": "https://en.wikipedia.org/?curid=40548874",
+        "cleaned_name": "Honda Crider"
+    },
+    "Honda Fit": {
+        "release_date": "June 2001",
+        "source": "https://en.wikipedia.org/?curid=417157",
+        "cleaned_name": "Honda Fit"
+    },
+    "Honda Elysion": {
+        "release_date": "2013",
+        "source": "https://en.wikipedia.org/?curid=18848835",
+        "cleaned_name": "Honda Elysion"
+    },
+    "MAZDA Mazda 8": {
+        "release_date": "2003",
+        "source": "https://en.wikipedia.org/?curid=735076",
+        "cleaned_name": "MAZDA Mazda 8"
+    },
+    "MAZDA Mazda 2": {
+        "release_date": "2002",
+        "source": "https://en.wikipedia.org/?curid=731608",
+        "cleaned_name": "MAZDA Mazda 2"
+    },
+    "MAZDA Mazda 3": {
+        "release_date": "1998",
+        "source": "https://en.wikipedia.org/?curid=513456",
+        "cleaned_name": "MAZDA Mazda 3"
+    },
+    "MAZDA Mazda 5": {
+        "release_date": "1989",
+        "source": "https://en.wikipedia.org/?curid=20320",
+        "cleaned_name": "MAZDA Mazda 5"
+    },
+    "MAZDA Mazda 6": {
+        "release_date": "2024",
+        "source": "https://en.wikipedia.org/?curid=76641876",
+        "cleaned_name": "MAZDA Mazda 6"
+    },
+    "MAZDA Mazda CX-5": {
+        "release_date": "1989",
+        "source": "https://en.wikipedia.org/?curid=20320",
+        "cleaned_name": "MAZDA Mazda CX-5"
+    },
+    "MAZDA Mazda CX7": {
+        "release_date": "February 2006",
+        "source": "https://en.wikipedia.org/?curid=1939910",
+        "cleaned_name": "MAZDA Mazda CX7"
+    },
+    "Huanghai Aolong": {
+        "release_date": "2010",
+        "source": "https://en.wikipedia.org/?curid=58863885",
+        "cleaned_name": "Huanghai Aolong"
+    },
+    "Huanghai Ruitu": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "Huanghai Ruitu"
+    },
+    "Lotus Lotus L5": {
+        "release_date": "2015",
+        "source": "https://en.wikipedia.org/?curid=67328571",
+        "cleaned_name": "Lotus L5"
+    },
+    "KIA Kaizun": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "KIA Kaizun"
+    },
+    "KIA Cerato": {
+        "release_date": "2024",
+        "source": "https://en.wikipedia.org/?curid=2085819",
+        "cleaned_name": "KIA Cerato"
+    },
+    "KIA Sorento": {
+        "release_date": "2002",
+        "source": "https://en.wikipedia.org/?curid=1804216",
+        "cleaned_name": "KIA Sorento"
+    },
+    "KIA RIO": {
+        "release_date": "November 1999",
+        "source": "https://en.wikipedia.org/?curid=1553107",
+        "cleaned_name": "KIA RIO"
+    },
+    "KIA Borrego": {
+        "release_date": "2024",
+        "source": "https://en.wikipedia.org/?curid=11688207",
+        "cleaned_name": "KIA Borrego"
+    },
+    "Changhe Ideal": {
+        "release_date": "2016",
+        "source": "https://en.wikipedia.org/?curid=9078675",
+        "cleaned_name": "Changhe Ideal"
+    },
+    "Haima Haima S7": {
+        "release_date": "2020",
+        "source": "https://en.wikipedia.org/?curid=55964649",
+        "cleaned_name": "Haima S7"
+    },
+    "Haima Haima 3": {
+        "release_date": "2013",
+        "source": "https://en.wikipedia.org/?curid=57825996",
+        "cleaned_name": "Haima 3"
+    },
+    "Haima Haydo": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "Haima Haydo"
+    },
+    "Haima Qiubite": {
+        "release_date": "2015",
+        "source": "https://en.wikipedia.org/?curid=57621944",
+        "cleaned_name": "Haima Qiubite"
+    },
+    "Haima Haima M3": {
+        "release_date": "2017",
+        "source": "https://en.wikipedia.org/?curid=57839014",
+        "cleaned_name": "Haima M3"
+    },
+    "Haima Premacy": {
+        "release_date": "2018",
+        "source": "https://en.wikipedia.org/?curid=30871959",
+        "cleaned_name": "Haima Premacy"
+    },
+    "Shuanghuan Shuanghuan SCEO": {
+        "release_date": "2011",
+        "source": "https://en.wikipedia.org/?curid=14923802",
+        "cleaned_name": "Shuanghuan SCEO"
+    },
+    "Nissan Paladin": {
+        "release_date": "2015",
+        "source": "https://en.wikipedia.org/?curid=1278144",
+        "cleaned_name": "Nissan Paladin"
+    },
+    "Nissan Ma Chi": {
+        "release_date": "2019",
+        "source": "https://en.wikipedia.org/?curid=37071251",
+        "cleaned_name": "Nissan Ma Chi"
+    },
+    "Nissan Murano": {
+        "release_date": "May 2002",
+        "source": "https://en.wikipedia.org/?curid=1278102",
+        "cleaned_name": "Nissan Murano"
+    },
+    "Nissan Qashqai": {
+        "release_date": "2013",
+        "source": "https://en.wikipedia.org/?curid=4594396",
+        "cleaned_name": "Nissan Qashqai"
+    },
+    "Nissan Tiida": {
+        "release_date": "2023",
+        "source": "https://en.wikipedia.org/?curid=1255094",
+        "cleaned_name": "Nissan Tiida"
+    },
+    "Nissan X-Trail": {
+        "release_date": "October 2000",
+        "source": "https://en.wikipedia.org/?curid=1849060",
+        "cleaned_name": "Nissan X-Trail"
+    },
+    "Nissan Nissan NV200": {
+        "release_date": "2009",
+        "source": "https://en.wikipedia.org/?curid=22989647",
+        "cleaned_name": "Nissan NV200"
+    },
+    "Nissan Quest": {
+        "release_date": "2016",
+        "source": "https://en.wikipedia.org/?curid=2197028",
+        "cleaned_name": "Nissan Quest"
+    },
+    "Nissan Teana": {
+        "release_date": "2009",
+        "source": "https://en.wikipedia.org/?curid=1168072",
+        "cleaned_name": "Nissan Teana"
+    },
+    "Chrysler Chrysler 300C": {
+        "release_date": "Not found",
+        "source": "https://en.wikipedia.org/?curid=695760",
+        "cleaned_name": "Chrysler 300C"
+    },
+    "Chrysler Grand Voager’": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "Chrysler Grand Voager’"
+    },
+    "Jinbei Haishi": {
+        "release_date": "December 2017",
+        "source": "https://en.wikipedia.org/?curid=3280335",
+        "cleaned_name": "Jinbei Haishi"
+    },
+    "Jinbei Jinbei S50": {
+        "release_date": "December 2017",
+        "source": "https://en.wikipedia.org/?curid=3280335",
+        "cleaned_name": "Jinbei S50"
+    },
+    "Haval Haval H6": {
+        "release_date": "2011",
+        "source": "https://en.wikipedia.org/?curid=41539504",
+        "cleaned_name": "Haval H6"
+    },
+    "Haval Haval H5": {
+        "release_date": "June 2010",
+        "source": "https://en.wikipedia.org/?curid=31166704",
+        "cleaned_name": "Haval H5"
+    },
+    "Wuling Wulinghongguang": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "Wuling Wulinghongguang"
+    },
+    "Acura Acura TL": {
+        "release_date": "2014",
+        "source": "https://en.wikipedia.org/?curid=489379",
+        "cleaned_name": "Acura TL"
+    },
+    "Acura Acura ILX": {
+        "release_date": "2014",
+        "source": "https://en.wikipedia.org/?curid=34034631",
+        "cleaned_name": "Acura ILX"
+    },
+    "Acura Acura RL": {
+        "release_date": "2012",
+        "source": "https://en.wikipedia.org/?curid=670227",
+        "cleaned_name": "Acura RL"
+    },
+    "Acura Acura ZDX": {
+        "release_date": "2013",
+        "source": "https://en.wikipedia.org/?curid=22065980",
+        "cleaned_name": "Acura ZDX"
+    },
+    "Acura Acura MDX": {
+        "release_date": "2006",
+        "source": "https://en.wikipedia.org/?curid=598144",
+        "cleaned_name": "Acura MDX"
+    },
+    "Acura Acura RDX": {
+        "release_date": "July 2006",
+        "source": "https://en.wikipedia.org/?curid=1741361",
+        "cleaned_name": "Acura RDX"
+    },
+    "Peugeot Peugeot 408": {
+        "release_date": "2021",
+        "source": "https://en.wikipedia.org/?curid=13153785",
+        "cleaned_name": "Peugeot 408"
+    },
+    "Peugeot Peugeot 508": {
+        "release_date": "2019",
+        "source": "https://en.wikipedia.org/?curid=17158725",
+        "cleaned_name": "Peugeot 508"
+    },
+    "Peugeot Peugeot 3008": {
+        "release_date": "2019",
+        "source": "https://en.wikipedia.org/?curid=19028714",
+        "cleaned_name": "Peugeot 3008"
+    },
+    "Peugeot Peugeot 301": {
+        "release_date": "May 2012",
+        "source": "https://en.wikipedia.org/?curid=36069894",
+        "cleaned_name": "Peugeot 301"
+    },
+    "Peugeot Peugeot 308": {
+        "release_date": "October 2007",
+        "source": "https://en.wikipedia.org/?curid=4945436",
+        "cleaned_name": "Peugeot 308"
+    },
+    "Porsche Canyenne": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "Porsche Canyenne"
+    },
+    "Porsche Panamera": {
+        "release_date": "April 2009",
+        "source": "https://en.wikipedia.org/?curid=1755878",
+        "cleaned_name": "Porsche Panamera"
+    },
+    "Changan Changan CX20": {
+        "release_date": "2016",
+        "source": "https://en.wikipedia.org/?curid=57321965",
+        "cleaned_name": "Changan CX20"
+    },
+    "Changan Yidong": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "Changan Yidong"
+    },
+    "Changan Benben": {
+        "release_date": "2023",
+        "source": "https://en.wikipedia.org/?curid=57254771",
+        "cleaned_name": "Changan Benben"
+    },
+    "Changan Ruiping": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "Changan Ruiping"
+    },
+    "Changan Changan CS35": {
+        "release_date": "2022",
+        "source": "https://en.wikipedia.org/?curid=57253184",
+        "cleaned_name": "Changan CS35"
+    },
+    "Changan Yuexiang V3": {
+        "release_date": "2017",
+        "source": "https://en.wikipedia.org/?curid=56744192",
+        "cleaned_name": "Changan Yuexiang V3"
+    },
+    "Dongfengfengshen Fengshen A60": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "Dongfengfengshen Fengshen A60"
+    },
+    "BYD BYD S6": {
+        "release_date": "2011",
+        "source": "https://en.wikipedia.org/?curid=37576844",
+        "cleaned_name": "BYD S6"
+    },
+    "BYD BYD F3": {
+        "release_date": "2021",
+        "source": "https://en.wikipedia.org/?curid=26021991",
+        "cleaned_name": "BYD F3"
+    },
+    "BYD Si Rui": {
+        "release_date": "June 1993",
+        "source": "https://en.wikipedia.org/?curid=56630127",
+        "cleaned_name": "BYD Si Rui"
+    },
+    "BYD Su Rui": {
+        "release_date": "2021",
+        "source": "https://en.wikipedia.org/?curid=26021991",
+        "cleaned_name": "BYD Su Rui"
+    },
+    "BYD BYD F6": {
+        "release_date": "2012",
+        "source": "https://en.wikipedia.org/?curid=31460852",
+        "cleaned_name": "BYD F6"
+    },
+    "BYD BYD L3": {
+        "release_date": "2015",
+        "source": "https://en.wikipedia.org/?curid=46545634",
+        "cleaned_name": "BYD L3"
+    },
+    "BYD BYD G6": {
+        "release_date": "2018",
+        "source": "https://en.wikipedia.org/?curid=38740344",
+        "cleaned_name": "BYD G6"
+    },
+    "BYD BYD F0": {
+        "release_date": "2015",
+        "source": "https://en.wikipedia.org/?curid=22682153",
+        "cleaned_name": "BYD F0"
+    },
+    "Karry Youyou": {
+        "release_date": "2022",
+        "source": "https://en.wikipedia.org/?curid=59659222",
+        "cleaned_name": "Karry Youyou"
+    },
+    "Karry Youya": {
+        "release_date": "2012",
+        "source": "https://en.wikipedia.org/?curid=56828580",
+        "cleaned_name": "Karry Youya"
+    },
+    "Renault Megan Aa": {
+        "release_date": "2015",
+        "source": "https://en.wikipedia.org/?curid=1278144",
+        "cleaned_name": "Renault Megan Aa"
+    },
+    "Renault Koleos": {
+        "release_date": "2016",
+        "source": "https://en.wikipedia.org/?curid=7332936",
+        "cleaned_name": "Renault Koleos"
+    },
+    "Renault Wind Lang": {
+        "release_date": "1955",
+        "source": "https://en.wikipedia.org/?curid=5049544",
+        "cleaned_name": "Renault Wind Lang"
+    },
+    "Jaguar Gaguar XJ": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "Jaguar Gaguar XJ"
+    },
+    "Jaguar Gaguar XF": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "Jaguar Gaguar XF"
+    },
+    "Skoda Fabia": {
+        "release_date": "July 1999",
+        "source": "https://en.wikipedia.org/?curid=1465456",
+        "cleaned_name": "Skoda Fabia"
+    },
+    "Skoda Octavia": {
+        "release_date": "2010",
+        "source": "https://en.wikipedia.org/?curid=2149354",
+        "cleaned_name": "Skoda Octavia"
+    },
+    "Skoda Haorui": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "Skoda Haorui"
+    },
+    "Skoda Rapid": {
+        "release_date": "Not found",
+        "source": "https://en.wikipedia.org/?curid=36355115",
+        "cleaned_name": "Skoda Rapid"
+    },
+    "Volvo Volvo XC60": {
+        "release_date": "2009",
+        "source": "https://en.wikipedia.org/?curid=694258",
+        "cleaned_name": "Volvo XC60"
+    },
+    "Volvo Volvo S60": {
+        "release_date": "2024",
+        "source": "https://en.wikipedia.org/?curid=393008",
+        "cleaned_name": "Volvo S60"
+    },
+    "Volvo Volvo S80": {
+        "release_date": "1998",
+        "source": "https://en.wikipedia.org/?curid=615355",
+        "cleaned_name": "Volvo S80"
+    },
+    "Volvo Volvo V60": {
+        "release_date": "2018",
+        "source": "https://en.wikipedia.org/?curid=24432544",
+        "cleaned_name": "Volvo V60"
+    },
+    "Volvo Volvo C30": {
+        "release_date": "2013",
+        "source": "https://en.wikipedia.org/?curid=706136",
+        "cleaned_name": "Volvo C30"
+    },
+    "Volvo Volvo S40": {
+        "release_date": "2012",
+        "source": "https://en.wikipedia.org/?curid=954681",
+        "cleaned_name": "Volvo S40"
+    },
+    "Cadillac Cadillac XTS": {
+        "release_date": "May 2012",
+        "source": "https://en.wikipedia.org/?curid=23484780",
+        "cleaned_name": "Cadillac XTS"
+    },
+    "Cadillac Cadillac SRX": {
+        "release_date": "2016",
+        "source": "https://en.wikipedia.org/?curid=1240486",
+        "cleaned_name": "Cadillac SRX"
+    },
+    "Cadillac Seville SLS": {
+        "release_date": "2003",
+        "source": "https://en.wikipedia.org/?curid=535567",
+        "cleaned_name": "Cadillac Seville SLS"
+    },
+    "Cadillac Cadillac CTS": {
+        "release_date": "2019",
+        "source": "https://en.wikipedia.org/?curid=782759",
+        "cleaned_name": "Cadillac CTS"
+    },
+    "Everus Linian S1": {
+        "release_date": "April 2011",
+        "source": "https://en.wikipedia.org/?curid=22023226",
+        "cleaned_name": "Everus Linian S1"
+    },
+    "Shuanglong Rodius": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "Shuanglong Rodius"
+    },
+    "Shuanglong Rexton": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "Shuanglong Rexton"
+    },
+    "Shuanglong Kyron": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "Shuanglong Kyron"
+    },
+    "Shuanglong Actyon": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "Shuanglong Actyon"
+    },
+    "Subaru Subaru XV": {
+        "release_date": "2017",
+        "source": "https://en.wikipedia.org/?curid=62007219",
+        "cleaned_name": "Subaru XV"
+    },
+    "Subaru Subaru BRZ": {
+        "release_date": "January 2012",
+        "source": "https://en.wikipedia.org/?curid=33924745",
+        "cleaned_name": "Subaru BRZ"
+    },
+    "Subaru Tribeca": {
+        "release_date": "2014",
+        "source": "https://en.wikipedia.org/?curid=30873831",
+        "cleaned_name": "Subaru Tribeca"
+    },
+    "Subaru Forester": {
+        "release_date": "2002",
+        "source": "https://en.wikipedia.org/?curid=29311",
+        "cleaned_name": "Subaru Forester"
+    },
+    "Subaru Outback": {
+        "release_date": "1999",
+        "source": "https://en.wikipedia.org/?curid=318149",
+        "cleaned_name": "Subaru Outback"
+    },
+    "Subaru Legacy": {
+        "release_date": "2020",
+        "source": "https://en.wikipedia.org/?curid=9210475",
+        "cleaned_name": "Subaru Legacy"
+    },
+    "Roewe Roewe 350": {
+        "release_date": "2014",
+        "source": "https://en.wikipedia.org/?curid=31573864",
+        "cleaned_name": "Roewe 350"
+    },
+    "Roewe Roewe W5": {
+        "release_date": "2017",
+        "source": "https://en.wikipedia.org/?curid=34433985",
+        "cleaned_name": "Roewe W5"
+    },
+    "Roewe Roewe 750": {
+        "release_date": "October 2006",
+        "source": "https://en.wikipedia.org/?curid=7614393",
+        "cleaned_name": "Roewe 750"
+    },
+    "Zoyte Zotye Z300": {
+        "release_date": "2005",
+        "source": "https://en.wikipedia.org/?curid=26772443",
+        "cleaned_name": "Zoyte Zotye Z300"
+    },
+    "Zoyte Zotye M300": {
+        "release_date": "2005",
+        "source": "https://en.wikipedia.org/?curid=26772443",
+        "cleaned_name": "Zoyte Zotye M300"
+    },
+    "Geely Geely GC7": {
+        "release_date": "2021",
+        "source": "https://en.wikipedia.org/?curid=56976907",
+        "cleaned_name": "Geely GC7"
+    },
+    "Geely Geely GX7": {
+        "release_date": "2016",
+        "source": "https://en.wikipedia.org/?curid=56729274",
+        "cleaned_name": "Geely GX7"
+    },
+    "Geely Geely SC3": {
+        "release_date": "2016",
+        "source": "https://en.wikipedia.org/?curid=3688030",
+        "cleaned_name": "Geely SC3"
+    },
+    "Geely Ziyoujian": {
+        "release_date": "2016",
+        "source": "https://en.wikipedia.org/?curid=3688030",
+        "cleaned_name": "Geely Ziyoujian"
+    },
+    "Geely Panda": {
+        "release_date": "2016",
+        "source": "https://en.wikipedia.org/?curid=31083320",
+        "cleaned_name": "Geely Panda"
+    },
+    "Hyundai  i30": {
+        "release_date": "2006",
+        "source": "https://en.wikipedia.org/?curid=9961004",
+        "cleaned_name": "Hyundai i30"
+    },
+    "Hyundai  Accent": {
+        "release_date": "1999",
+        "source": "https://en.wikipedia.org/?curid=1643686",
+        "cleaned_name": "Hyundai Accent"
+    },
+    "Hyundai  Rohens Coupe": {
+        "release_date": "2016",
+        "source": "https://en.wikipedia.org/?curid=14372538",
+        "cleaned_name": "Hyundai Rohens Coupe"
+    },
+    "Hyundai  Grandeur": {
+        "release_date": "1992",
+        "source": "https://en.wikipedia.org/?curid=2648004",
+        "cleaned_name": "Hyundai Grandeur"
+    },
+    "Hyundai  Rena": {
+        "release_date": "1975",
+        "source": "https://en.wikipedia.org/?curid=33386793",
+        "cleaned_name": "Hyundai Rena"
+    },
+    "Hyundai  Avante": {
+        "release_date": "1998",
+        "source": "https://en.wikipedia.org/?curid=1175361",
+        "cleaned_name": "Hyundai Avante"
+    },
+    "Hyundai  Elantra": {
+        "release_date": "1998",
+        "source": "https://en.wikipedia.org/?curid=1175361",
+        "cleaned_name": "Hyundai Elantra"
+    },
+    "Hyundai  Tucson": {
+        "release_date": "2019",
+        "source": "https://en.wikipedia.org/?curid=1039177",
+        "cleaned_name": "Hyundai Tucson"
+    },
+    "Hyundai  Santafe": {
+        "release_date": "2014",
+        "source": "https://en.wikipedia.org/?curid=12506543",
+        "cleaned_name": "Hyundai Santafe"
+    },
+    "Hyundai  Veracruz": {
+        "release_date": "2015",
+        "source": "https://en.wikipedia.org/?curid=6385842",
+        "cleaned_name": "Hyundai Veracruz"
+    },
+    "Hyundai  Mistra": {
+        "release_date": "2023",
+        "source": "https://en.wikipedia.org/?curid=43467038",
+        "cleaned_name": "Hyundai Mistra"
+    },
+    "Hyundai  ix35": {
+        "release_date": "2019",
+        "source": "https://en.wikipedia.org/?curid=1039177",
+        "cleaned_name": "Hyundai ix35"
+    },
+    "Shangqidatong MAXUS V80xs": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "Shangqidatong MAXUS V80xs"
+    },
+    "LAND-ROVER Discovery": {
+        "release_date": "1998",
+        "source": "https://en.wikipedia.org/?curid=884058",
+        "cleaned_name": "LAND-ROVER Discovery"
+    },
+    "LAND-ROVER Freelander": {
+        "release_date": "October 1997",
+        "source": "https://en.wikipedia.org/?curid=884077",
+        "cleaned_name": "LAND-ROVER Freelander"
+    },
+    "LAND-ROVER Range Rover": {
+        "release_date": "1979",
+        "source": "https://en.wikipedia.org/?curid=23476529",
+        "cleaned_name": "LAND-ROVER Range Rover"
+    },
+    "GreatWall Great Wall C30": {
+        "release_date": "2016",
+        "source": "https://en.wikipedia.org/?curid=31438793",
+        "cleaned_name": "GreatWall Great Wall C30"
+    },
+    "GreatWall Great Wall C50": {
+        "release_date": "2024",
+        "source": "https://en.wikipedia.org/?curid=3367788",
+        "cleaned_name": "GreatWall Great Wall C50"
+    },
+    "GreatWall Jingling": {
+        "release_date": "2010",
+        "source": "https://en.wikipedia.org/?curid=24216743",
+        "cleaned_name": "GreatWall Jingling"
+    },
+    "GreatWall Xuanli": {
+        "release_date": "2013",
+        "source": "https://en.wikipedia.org/?curid=21178001",
+        "cleaned_name": "GreatWall Xuanli"
+    },
+    "Jeep Compass": {
+        "release_date": "2016",
+        "source": "https://en.wikipedia.org/?curid=1670325",
+        "cleaned_name": "Jeep Compass"
+    },
+    "Jeep Grand Cherokee": {
+        "release_date": "May 2010",
+        "source": "https://en.wikipedia.org/?curid=1105695",
+        "cleaned_name": "Jeep Grand Cherokee"
+    },
+    "Jeep Patriot": {
+        "release_date": "2016",
+        "source": "https://en.wikipedia.org/?curid=3441776",
+        "cleaned_name": "Jeep Patriot"
+    },
+    "Jeep Wrangler": {
+        "release_date": "March 1986",
+        "source": "https://en.wikipedia.org/?curid=895086",
+        "cleaned_name": "Jeep Wrangler"
+    },
+    "BWM BWM X6": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "BWM X6"
+    },
+    "BWM BWM X5": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "BWM X5"
+    },
+    "BWM BWM X3": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "BWM X3"
+    },
+    "BWM BWM 7 Series": {
+        "release_date": "2015",
+        "source": "https://en.wikipedia.org/?curid=44280061",
+        "cleaned_name": "BWM 7 Series"
+    },
+    "BWM BWM X1": {
+        "release_date": "2006",
+        "source": "https://en.wikipedia.org/?curid=1908748",
+        "cleaned_name": "BWM X1"
+    },
+    "BWM BWM Z4": {
+        "release_date": "1999",
+        "source": "https://en.wikipedia.org/?curid=50631997",
+        "cleaned_name": "BWM Z4"
+    },
+    "BWM BWM 5 Series": {
+        "release_date": "2015",
+        "source": "https://en.wikipedia.org/?curid=44280061",
+        "cleaned_name": "BWM 5 Series"
+    },
+    "BWM BWM 3 Series": {
+        "release_date": "June 2021",
+        "source": "https://en.wikipedia.org/?curid=43311976",
+        "cleaned_name": "BWM 3 Series"
+    },
+    "GAC Shuaijian": {
+        "release_date": "2016",
+        "source": "https://en.wikipedia.org/?curid=27672699",
+        "cleaned_name": "GAC Shuaijian"
+    },
+    "Dongfengfengdu Shuaike": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "Dongfengfengdu Shuaike"
+    },
+    "Dodge Caliber": {
+        "release_date": "March 2006",
+        "source": "https://en.wikipedia.org/?curid=2111004",
+        "cleaned_name": "Dodge Caliber"
+    },
+    "Chrey Eastar": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "Chrey Eastar"
+    },
+    "Chrey Tiggo": {
+        "release_date": "Not found",
+        "source": "No page found",
+        "cleaned_name": "Chrey Tiggo"
+    },
+    "Venucia Venucia D50": {
+        "release_date": "2019",
+        "source": "https://en.wikipedia.org/?curid=37071251",
+        "cleaned_name": "Venucia D50"
+    },
+    "Venucia Venucia R50": {
+        "release_date": "2016",
+        "source": "https://en.wikipedia.org/?curid=62992770",
+        "cleaned_name": "Venucia R50"
+    }
+}
