@@ -36,7 +36,6 @@ save_dict_to_json(data=result, filename=SPLITS_SAVE)
 for idx, chunk in enumerate(result, start=1):
     print(f"Chunk {idx} ({len(chunk)} items):")
 
-
 # this section now then uses those spilts, and then makes them into tasks
 
 # it first loads in both train and test.txt, and then we start grabbing items from it, and then chucking it into a resulting list 
